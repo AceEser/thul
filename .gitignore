@@ -1,0 +1,11 @@
+node_modules/
+dist/
+venv/
+__pycache__/
+*.pyc
+.env
+backend/thul_feedback.db
+backend/uploads/*
+backend/outputs/*
+backend/temp/*
+!backend/*/.gitkeep
